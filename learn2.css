@@ -1,0 +1,20 @@
+/* #sudharshan{
+    color: antiquewhite;
+}
+#laptop{
+    color: aquamarine;
+    background-color: blueviolet;
+    font-family: fantasy;
+} */
+.laptop{
+    color:cadetblue;
+    background-color: beige;
+}
+.charger{
+    color:khaki;
+    background-color: darkorange;
+    
+}
+#sudharshan{
+    text-transform: uppercase;
+}

@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+    color: burlywood;
+    line-height: 1.5em;
+}
+div{
+    color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 3px solid pink;
+}
+h3{
+    color: chartreuse;
+}

@@ -1,0 +1,17 @@
+/* Last rule,specificity,Universal selactor */
+
+/* at last what rule you will be added that rule will be applicable */
+*{
+    padding: 0ch;
+    margin: 0%;
+}
+.one_class {
+    color:cornflowerblue;
+}
+h1{
+    color:darkseagreen;
+}
+#one_id{
+    color:cornflowerblue;
+}
+/* ID > Class > Elements *
